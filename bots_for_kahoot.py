@@ -48,7 +48,7 @@ if(int(namesOption) == 0):
 
 
     # Openning the Goole
-    driver = webdriver.Chrome("C:/Users/samta/OneDrive/Programacao/Python/chromedriver.exe");
+    driver = webdriver.Chrome("./chromedriver.exe");
 
 
 
@@ -130,7 +130,7 @@ else:
 
 
     # Oppenning the Google
-    driver = webdriver.Chrome("C:/Users/samta/OneDrive/Programacao/Python/chromedriver.exe");
+    driver = webdriver.Chrome("./chromedriver.exe");
 
 
 
