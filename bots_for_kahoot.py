@@ -1,5 +1,4 @@
 from selenium import webdriver
-from random import randint
 import time;
 
 
