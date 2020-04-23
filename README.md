@@ -1,5 +1,11 @@
 # Bots-for-kahoot
-This is a software that I create to make fun at Kahoot, it is very simple to use
+This is a software that I create to make fun at Kahoot, it is very simple to use.
+
+I reccomend you just add 8 bots, because if you add more, Kahoot will tell you to wait more time.
+
+But a solution for this problem of limited 8 bots is: you can execute this software many times simultaneously (it depends of your RAM and computer hardware), and do you will have many google with 8 bots, and you can play with bots.
+
+Maybe I develop an update that allows you to type in the software what awnser do you want that all bots will click (it depends if you want)
 
 
 # Installation 
